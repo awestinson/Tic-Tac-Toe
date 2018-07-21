@@ -1,0 +1,48 @@
+table {   
+    margin-left : 35%;
+}
+
+h1 {
+    margin-left : 45%;
+}
+
+.player {
+    position: absolute;
+    top : 5 0px;
+    left: 45%;
+}
+
+td {
+    width : 150px;
+    height : 150px;
+}
+
+.up {
+    border-left: solid;
+    border-right: solid;
+}
+
+.mid {
+    border-top : solid;
+    border-bottom : solid;
+}
+
+#five {
+    border-left : solid;
+    border-right: solid;
+}
+
+.down {
+    border-left: solid;
+    border-right: solid;
+}
+
+img {
+    height: 150px;
+    width : 150px;
+}
+
+body {
+    background-image: url('back.png');
+    
+}
